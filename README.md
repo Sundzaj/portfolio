@@ -32,7 +32,7 @@ Repozytorium pokazuje podstawy automatyzacji testów **UI (web)** oraz **API**, 
 
 ### 1 Klonowanie repozytorium
 
-git clone <URL_REPOZYTORIUM>
+git clone [<URL_REPOZYTORIUM>](https://github.com/Sundzaj/portfolio.git)
 cd web-tests
 
 ### 2 Instalacja zależności
