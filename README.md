@@ -5,7 +5,7 @@ Repozytorium pokazuje podstawy automatyzacji testów **UI (web)** oraz **API**, 
 
 ---
 
-## 🧪 Technologie
+## Technologie
 - [Playwright](https://playwright.dev/)
 - TypeScript
 - Node.js
@@ -13,34 +13,34 @@ Repozytorium pokazuje podstawy automatyzacji testów **UI (web)** oraz **API**, 
 
 ---
 
-## 🎯 Zakres testów
+## Zakres testów
 
-### ✅ Testy UI (Web)
+### Testy UI (Web)
 - logowanie użytkownika
 - walidacja poprawnych / niepoprawnych danych
 - podstawowe asercje widoczności i nawigacji
 - Page Object Model w uproszczonej formie (BasePage)
 
-### ✅ Testy API
+### Testy API
 - testy endpointów REST
 - walidacja statusów odpowiedzi
 - walidacja danych w response body
 
 ---
 
-## ▶️ Jak uruchomić projekt lokalnie
+##  Jak uruchomić projekt lokalnie
 
-### 1️⃣ Klonowanie repozytorium
+### 1 Klonowanie repozytorium
 
 git clone <URL_REPOZYTORIUM>
 cd web-tests
 
-Instalacja zależności
+### 2 Instalacja zależności
 npm install
 
-Instalacja przeglądarek Playwright
+### 3 Instalacja przeglądarek Playwright
 npx playwright install
 
-Uruchamianie testów
+### 4 Uruchamianie testów
 
 npx playwright test
